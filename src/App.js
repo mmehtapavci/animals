@@ -3,7 +3,7 @@ function App() {
         console.log('Button was clicked!')
     };
     return <div>
-        <button onClick={handleClick} >Add Animal</button>
+        <button onClick={handleClick} >Add Animal! </button>
     </div>
 
 }
