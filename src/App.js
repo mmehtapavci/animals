@@ -6,8 +6,8 @@ function App() {
         setCount(count + 1);
     };
     return <div>
-        <button onClick={handleClick} >Add Animal! </button>
-        <div>Number of animals: {count}</div>
+        <button onClick={handleClick}>Add Animal! </button>
+        <div>Number of animals:{count}</div>
     </div>
 
 }
