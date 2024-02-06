@@ -10,9 +10,9 @@ button {
     font-size: 20px;
     padding: 10px;
     width: 15%;
-    color: rgb(39, 85, 63);
 }
 .animal-list{
+    margin-top: 30px;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
