@@ -17,7 +17,6 @@ const svgMap = {
     horse
 };
 
-
 function AnimalShow({ type }) {
     const [clicks, setClicks] = useState(0);
 
